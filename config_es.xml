@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>virtual_autosent</name>
+    <displayName><![CDATA[virtual products autosent]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Cambia el estado de los productos virtuales a enviado cuando el pago es aceptado]]></description>
+    <author><![CDATA[Alan Reibel]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
